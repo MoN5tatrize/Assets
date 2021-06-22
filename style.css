@@ -1,0 +1,24 @@
+.title {
+  color:red;
+  text-align:center;
+  font-size:50px;
+}
+.navbar {
+  text-align:center;
+  font-size:25px;
+  margin-left:30px;
+  margin-right:30px;
+}
+body {
+  width:1000px;
+  margin:0 auto;
+}
+body {
+  background-image:url("https://compass-ssl.xbox.com/assets/8d/ac/8dac2278-aef9-4a8c-bd68-739693d639c2.jpg?n=Halo-Franchise-2020_Super-Hero-1400_1920x1080.jpg");
+    
+}
+.paragraph {
+  font-size:20px;
+  background-color:white;
+  border-radius:10px;
+}
